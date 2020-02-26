@@ -13,7 +13,7 @@ data = pd.read_csv('/Users/shenyankun/Downloads/op_spam_v1.4/positive_polarity/t
 print(data.head())
 print(data.shape)
 
-create a csv file -- label
+#create a csv file -- label
 lines = data.shape[0]
 print(lines)
 with open('/Users/shenyankun/Downloads/op_spam_v1.4/positive_polarity/truthful_from_TripAdvisor_label.csv', 'w') as f:
