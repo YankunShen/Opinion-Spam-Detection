@@ -11,10 +11,11 @@
     * Eliminate special character
     * Space out punctuation
     * Trim
-    * Remove spaces at the beginning and at the end of the string
+    * Remove additional white spaces
 3. Data Visualization
     * lens of each review in histogram
     * sentiment analysis
+    * Show the frequency of words in deceptive and truthful reviews using _scattertext_ library.
     
 4. Use Kashgari(*https://kashgari.bmio.net*)
     >Kashgari is a simple and powerful NLP Transfer learning framework, build a state-of-art model in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS), and text classification tasks.
